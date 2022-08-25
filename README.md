@@ -1,5 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends: This project focused on analyzing Kickstarter campaign data to determine if there were factors that made a campaign successful. The project also focused on the estimated fundraising goals needed based on the comparison to campaigns in the same category/subcategory.
+---
 Some of the questions I looked to answer were:
 *How successful was the Theater category as a whole in comparison to other categories?
 *What did the outcomes of the Theater category and Plays subcategory look like?
@@ -10,6 +11,7 @@ Some of the questions I looked to answer were:
 Sheet PC1 displays the outcomes of parent categories. As a whole, it seems that the Theater category is a popular and generally successful category as reflected in the Parent Category Outcomes chart. The data can then be narrowed down to show a similar graph of outcomes for campaigns in the US of which 525 successful outcomes out of 912. 
 ##Optimal time to launch a campaign
 When analyzing outcomes based on launch date, it seems that successful campaigns are launched in May and June (and tapers off toward the end of the year). Narrowing the parent category to Theater shows a similar trend, but with the most success when launched in May.
+---
 ##Mean and median goals/pledge amounts of campaigns
 Failed kickstarters had a much higher goal than successful campaigns, however the pledged amount of failed campaigns was significantly lower.
 ---
