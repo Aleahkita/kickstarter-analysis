@@ -14,7 +14,7 @@ Questions I looked to answer during my analysis included:
 ## Distribution of outcomes based on parent category and subcategory
 ---
 Sheet PC1 displays the outcomes of parent categories. As a whole, it seems that the Theater category is a popular and generally successful category as reflected in the Parent Category Outcomes chart. 
-![Parent Category Outcomes](
+![Parent Category Outcomes](https://github.com/Aleahkita/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
 The data can then be narrowed down to show a similar graph of outcomes for campaigns in the US of which 525 successful outcomes out of 912. 
 ![Parent Category Outcomes (US)](https://github.com/Aleahkita/kickstarter-analysis/blob/main/Parent%20Category%20Outcomes.png)
 
