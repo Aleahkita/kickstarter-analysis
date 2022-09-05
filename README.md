@@ -1,15 +1,21 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data to uncover trends: This project focused on analyzing Kickstarter campaign data to determine if there were factors that made a campaign successful. The project also focused on the estimated fundraising goals needed based on the comparison to campaigns in the same category/subcategory.
+Overview:
+This project focused on analyzing Kickstarter campaign data to determine if there were certain factors that made a campaign successful. The project also focused on the estimated fundraising goals needed based on a comparison to campaigns in the same category/subcategory.
+
 ---
-Some of the questions I looked to answer were:
-* How successful was the Theater category as a whole in comparison to other categories?
+## Analysis and challenges
+I performed my analysis by looking for trends in the data of campaigns as a whole and my client's category of interest.
+Questions I looked to answer during my analysis included:
+* How successful was the Theater category as a whole in comparison to other parent categories?
 * What did the outcomes of the Theater category and Plays subcategory look like?
 * Is there an optimal time to launch a campaign?
 * What were the mean and median goals/pledged amounts of successful and failed campaigns?
 ---
 ## Distribution of outcomes based on parent category and subcategory
 ---
-Sheet PC1 displays the outcomes of parent categories. As a whole, it seems that the Theater category is a popular and generally successful category as reflected in the Parent Category Outcomes chart. The data can then be narrowed down to show a similar graph of outcomes for campaigns in the US of which 525 successful outcomes out of 912. 
+Sheet PC1 displays the outcomes of parent categories. As a whole, it seems that the Theater category is a popular and generally successful category as reflected in the Parent Category Outcomes chart. 
+![PC1](
+The data can then be narrowed down to show a similar graph of outcomes for campaigns in the US of which 525 successful outcomes out of 912. 
 
 ---
 ## Optimal time to launch a campaign
