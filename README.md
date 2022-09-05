@@ -44,6 +44,9 @@ Some challenges I encountered while analyzing Kickstarter data were whether to l
 ---
 ## Results
 Based on the theater outcomes by launch date, I can conclude that the ideal month to launch a campaign is in May. In addition to this, I can also conclude that after May there is a clear downward trend of successful outcomes through the remainder of the year. This means that the chances of having a successful campaign outcome decreases after the month of May through December.
+
 When looking at the outcomes based on goals, the highest percentage of successful outcomes were for campaigns with a goal of less than $1,000. The higher the goal amount, the lower the percentage of successful outcomes. This is reinforced by the trend of the percentage of failed campaigns, showing that the lowest percentage of failed outcomes were for campaigns with a goal of less than $1,000. As the goal amount increased, there was a trend of higher percentages of failed campaigns.
+
 Some limitations of the dataset were the range of data based on years and the source of the data. The range of data ends in 2017, we could add more recent data which might give insight into more current trends of successful/failed outcomes. The source of the data also limits our analysis because it is pulled from the platform Kickstarter. The client is interested in crowdfunding but doesn't specify which platform she intends to use. Different crowdfunding platforms could yield varrying outcome results based on the platform's structure, user base and features.
+
 An additional table we could create would be one displaying the count of outcomes of categories over time in years. Using this we can look at our client's specific category and subcategory to see if there is consistency with successful campaigns.  We could then insert a line graph to see if there is a trend for successful/failed campaigns through the years to help visualize the results.
