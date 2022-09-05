@@ -10,11 +10,11 @@ Some of the questions I looked to answer were:
 ## Distribution of outcomes based on parent category and subcategory
 ---
 Sheet PC1 displays the outcomes of parent categories. As a whole, it seems that the Theater category is a popular and generally successful category as reflected in the Parent Category Outcomes chart. The data can then be narrowed down to show a similar graph of outcomes for campaigns in the US of which 525 successful outcomes out of 912. 
+---
 ## Optimal time to launch a campaign
 When analyzing outcomes based on launch date, it seems that successful campaigns are launched in May and June (and tapers off toward the end of the year). Narrowing the parent category to Theater shows a similar trend, but with the most success when launched in May.
 ---
 ## Mean and median goals/pledge amounts of campaigns
----
 Failed kickstarters had a much higher goal than successful campaigns, however the pledged amount of failed campaigns was significantly lower.
 ---
 ## Research on musicals in Great Britain
