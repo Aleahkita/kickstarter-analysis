@@ -34,10 +34,6 @@ Looking at the percentage of successful outcomes, there is a downward trend as t
 ![Outcomes Based on Fundraising Goals](https://github.com/Aleahkita/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ---
-### Additional research on musicals in Great Britain
-Analysis on musicals in Great Britain are visualized using a box plot (Box Plot (GB Musicals)) to get a rough idea of funding needed. The estimated fundraising goal is quite higher than outlier of the pledged amount.
-
----
 ### Challenges
 Some challenges I encountered while analyzing Kickstarter data were whether to look for trends in the dataset as a whole to draw conclusions or to narrow my search down to the specific parent/subcategory of my client's interest. To overcome this I separated elements of the dataset and made them filterable by both criteria; this would give the client specific information on their category as well as allow them to compare between others.
 
